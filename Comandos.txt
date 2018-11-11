@@ -1,0 +1,9 @@
+react-native  init Mobile
+cd Mobile
+code .
+react-native run-android
+npm install
+-------------
+
+react-native start -- reset-cache
+
